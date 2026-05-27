@@ -27,7 +27,7 @@ import {
       (
         {
           label = 'Celular',
-          placeholder = '987654321',
+          placeholder = 'Ingrese su celular',
           errorMessage,
   
           onValueChange,

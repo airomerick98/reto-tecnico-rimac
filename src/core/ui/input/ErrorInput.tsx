@@ -1,7 +1,9 @@
 import {
     forwardRef,
-    InputHTMLAttributes,
   } from 'react'
+  import type {
+    InputHTMLAttributes,
+  } from "react";
   
   import { BaseInput } from './BaseInput'
   

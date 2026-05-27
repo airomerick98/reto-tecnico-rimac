@@ -1,7 +1,9 @@
 import {
     forwardRef,
-    InputHTMLAttributes,
   } from 'react'
+  import type {
+    InputHTMLAttributes,
+  } from "react";
   
   export interface BaseInputProps
     extends InputHTMLAttributes<HTMLInputElement> {
