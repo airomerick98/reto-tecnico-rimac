@@ -16,7 +16,7 @@ export const PriceSummary = ({
   planPrice,
 }: PriceSummaryProps) => {
   return (
-    <div className="rounded-2xl border border-gray-200 bg-background p-6">
+    <div className="rounded-2xl border border-gray-200 bg-white p-6">
 
       {/* Encabezado */}
       <p className="mb-2 text-[10px] font-semibold uppercase tracking-widest text-gray-400">

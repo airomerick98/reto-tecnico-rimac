@@ -12,7 +12,7 @@ export const SummaryPage = () => {
         Resumen del seguro
       </h1>
 
-      <div className="md:max-w-xl">
+      <div className="w-full md:max-w-5xl">
         <PriceSummary
           userName={`${user.name} ${user.lastName}`}
           documentType={documentType}

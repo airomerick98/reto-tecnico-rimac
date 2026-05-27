@@ -43,7 +43,7 @@ export const LoginPage = () => {
             Creado para ti y tu familia
           </h1>
           <p className="text-sm text-gray-500">
-            Tú eliges cuánto pagar. Ingresa tus datos, cotiza y recibe nuestra asesoría. 100% online.
+            Tú eliges cuánto pagar. Ingresa tus datos, cotiza y recibe nuestra asesoría 100% online.
           </p>
         </div>
 
